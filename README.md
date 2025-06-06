@@ -57,3 +57,34 @@ Administrador (Adelaide e possíveis gestores): terá acesso completo ao sistema
 Para os clientes, o sistema será acessado através de uma loja virtual, onde poderão visualizar os produtos disponíveis com fotos e descrições, selecionar os itens desejados, escolher personalizações (quando aplicável), calcular o prazo de entrega e finalizar a compra diretamente pelo site, com integração a meios de pagamento online.
 
 Com essa proposta, a Captare ganhará eficiência, organização e escalabilidade, mantendo a qualidade e o cuidado artesanal que são marca registrada da empresa.
+
+Alunos: Francisco Vargas Neto, Heloísa Milena Wagner e Larissa S. Lotin 3info3.
+
+Documentação - Sistema de Vendas CAPTARE
+O Sistema de Vendas CAPTARE é uma plataforma de comércio eletrônico focada na venda de velas aromáticas, sabonetes, hidratantes, bodysplashs e demais produtos de saboaria artesanal. A proposta é oferecer uma loja online completa com páginas visíveis ao usuário.
+
+# 4. documentação
+
+Requisitos Funcionais (RF)
+RF001 - O sistema deve permitir o cadastro de usuários com autenticação via e-mail e senha.
+RF002 - O sistema deve permitir o login dos usuários cadastrados.
+RF003 - O sistema deve permitir a navegação por categorias de produtos.
+RF004 - O sistema deve permitir a visualização de detalhes de cada produto.
+RF005 - O sistema deve permitir a adição de produtos ao carrinho de compras.
+RF006 - O sistema deve permitir a finalização da compra com diferentes métodos de pagamento.
+
+
+Requisitos Não Funcionais (RNF)
+RNF001 - O sistema deve ser responsivo e acessível em dispositivos móveis e desktops.
+RNF002 - O sistema deve utilizar banco de dados.
+RNF003 - O sistema deve ser desenvolvido em VueJS e DjangoDRF.
+RNF004 - O sistema deve oferecer suporte a múltiplos métodos de pagamento (cartão, dinheiro e pix).
+
+Regras de Negócio (RN)
+RN001 - O usuário só pode finalizar a compra após informar os dados pessoais e o endereço de entrega.
+RN002 - O pedido só será processado após a confirmação do pagamento.
+
+O projeto Captare serve a necessidade feminina de compras de produtos artesanais de estética e relaxamento
+
+
+
