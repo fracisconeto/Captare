@@ -99,4 +99,4 @@ Requisitos Funcionais (RF)
 O projeto Captare serve a necessidade feminina de compras de produtos artesanais de estética e relaxamento
 
 
-- ![banco de dados](./img/Captura%20de%20tela%20de%202025-05-09%2016-41-31.png)
+ ![banco de dados](./img/Captura%20de%20tela%20de%202025-05-09%2016-41-31.png)
