@@ -15,7 +15,7 @@ Equipe:
 
 Links do projeto:
 (Coloque aqui os links para a documentação do projeto e os repositórios e plubicação do backend e frontend.)
--   [Documentação (esse documento)](github.com/marcoandre/pi-modelo)
+-   [Documentação (esse documento)](https://docs.google.com/document/d/1gnxcceyV3PyfJAjMeULGaxtKdyva5Z8GaQLAlQ1gf9o/edit?tab=t.6yoyz1n3v4zq)
 -   Backend: [Repositório](https://github.com/fracisconeto/Captare_Beck.git) e [Publicação](https://pi-backend.herokuapp.com/)
 -   Frontend: [Repositório](github.com/marcoandre/pi-frontend) e [Publicação](https://pi-frontend.herokuapp.com/)
 
