@@ -16,7 +16,7 @@ Equipe:
 Links do projeto:
 (Coloque aqui os links para a documentação do projeto e os repositórios e plubicação do backend e frontend.)
 -   [Documentação (esse documento)](https://docs.google.com/document/d/1gnxcceyV3PyfJAjMeULGaxtKdyva5Z8GaQLAlQ1gf9o/edit?tab=t.6yoyz1n3v4zq)
--   Backend: [Repositório](https://github.com/fracisconeto/Capatare_Beck.git) e [Publicação](https://supabase.com/dashboard/project/putkkeklitgdjfxgubxd)
+-   Backend: [Repositório](https://github.com/fracisconeto/Capatare_Beck.git) e [Publicação](https://capatare-beck-1.onrender.com/)
 -   Frontend: [Repositório](https://github.com/fracisconeto/Captare_Front.git) e [Publicação](https://captare-front.vercel.app/)
 
 
